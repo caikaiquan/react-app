@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### 将本地项目推送到线上
+```
+git remote add origin https://github.com/caikaiquan/react-app.git
+输入git账号和密码
+```
